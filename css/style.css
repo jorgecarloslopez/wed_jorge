@@ -7,7 +7,9 @@ body{
     margin-left: 19rem;
 }
 
-.logo_header:hover{
-    background-color: rgba(249, 49, 84, 0.34);
 
+.logo_main{
+    width: 15rem;
+    margin-left: 19rem;
+    margin-top: -1rem;
 }
