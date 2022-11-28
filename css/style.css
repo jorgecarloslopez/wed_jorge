@@ -9,7 +9,11 @@ body{
 
 
 .logo_main{
+    display: flex;
     width: 15rem;
     margin-left: 53rem;
     margin-top: -1rem;
+    height: 23rem;
+    
 }
+
