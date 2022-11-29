@@ -7,19 +7,23 @@ body{
     margin-left: 19rem;
 }
 
+.wrapper{
+    background-color: red;
+}
 
-.logo_main{
-    
+
+.img-man{
     display: flex;
     width: 15rem;
-    margin-left: 850px;
+    margin-left: 54rem;
     margin-top: -17px;
     height: 21rem;    
+    transition: all 0.5s;
+    cursor: pointer;
+    
 }
-.logo_main:hover{
-      
-        transition: all .5s ease-in;
-        background-color: rgb(0, 194, 129);
-        position: absolute;
 
+:hover{
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
 }
