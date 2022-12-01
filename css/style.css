@@ -7,23 +7,28 @@ body{
     margin-left: 19rem;
 }
 
-.wrapper{
+.fondoMan{
     background-color: red;
+    background-color: red;
+    margin-block-start: -1rem;
+    margin-left: 51rem;
+    margin-right: 261px;
 }
 
 
+
 .img-man{
-    display: flex;
-    width: 15rem;
-    margin-left: 54rem;
-    margin-top: -17px;
-    height: 21rem;    
+    display:flex;
+    width: 11rem;
+    margin-left: 0rem;
+    margin-top: -4px;
+    height: 26rem;    
     transition: all 0.5s;
     cursor: pointer;
     
 }
 
-:hover{
-    -webkit-transform: scale(1.5);
-    transform: scale(1.5);
+.img-man:hover{
+    -webkit-transform: scale(0.9);
+    transform: scale(0.9);
 }
