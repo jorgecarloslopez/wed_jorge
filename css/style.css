@@ -32,3 +32,8 @@ body{
     -webkit-transform: scale(0.9);
     transform: scale(0.9);
 }
+
+.preferencias-del-usuario{
+    margin-left: 20rem;
+    margin-top: -23rem; 
+}
